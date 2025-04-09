@@ -1,0 +1,20 @@
+.divs-container {
+  margin: auto;
+  width: 460px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.generated-div {
+  box-sizing: border-box;
+  border: 1px solid grey;
+  width: 25.6px;
+  height: 25.6px;
+}
+
+.painted-div {
+  background-color: black;
+}
+
